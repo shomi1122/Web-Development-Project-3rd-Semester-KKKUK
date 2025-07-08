@@ -2,6 +2,8 @@
 
 Ghar Ka Zaiqa Website
 
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+
 This project is a simple yet elegant website design for a food delivery service named "Ghar Ka Zaiqa," offering homemade Pakistani cuisine. The website provides information about the restaurant's specialties, popular dishes, food gallery, customer reviews, and the option to order food online.
 
 ---
