@@ -120,7 +120,7 @@ If you'd like to contribute to the project, feel free to:
 - **Images and Icons:** Images are sourced from various locations such as [Pixabay](https://pixabay.com/) and custom images.
 - **Font Awesome:** For icons like stars, menu, and social media buttons.
 
-## 📜 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE).  
 Feel free to use, modify, or share — just give credit to the original author.
