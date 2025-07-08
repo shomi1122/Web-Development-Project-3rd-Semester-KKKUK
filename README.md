@@ -80,7 +80,7 @@ To use this project locally on your computer:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/ghar-ka-zaiqa.git
+   git clone https://github.com/ShumailaAbid/ghar-ka-zaiqa.git
    ```
 
 2. **Navigate to the project folder:**
